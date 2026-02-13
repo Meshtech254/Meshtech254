@@ -63,4 +63,4 @@ Full-Stack Developer focused on building scalable web applications and AI-powere
 
 ---
 
-📫 Contact: info.edbfoundation@gmail.com
+📫 Contact: meshack@edb-foundation.com / mesharkdawa@gmail.com
