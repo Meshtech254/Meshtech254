@@ -2,7 +2,7 @@
 # Hi, I'm Meshack 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meshack-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/meshakdawa22)
-[![Email](https://img.shields.io/badge/Email-meshack@edb-foundation.com-red?style=flat-square&logo=gmail)](mailto:meshack@edb-foundation.com)
+[![Email](https://img.shields.io/badge/Email-meshack@edb-foundation.org-red?style=flat-square&logo=gmail)](mailto:meshack@edb-foundation.org)
 
 ---
 
