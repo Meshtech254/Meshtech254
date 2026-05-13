@@ -19,7 +19,8 @@
 - CSS3  
 - JavaScript (ES6+)  
 - Responsive Web Design  
-- UI Implementation from Figma/Concept  
+- UI Implementation from Figma/Concept 
+- Typescript
 
 ### Backend & Database
 - Supabase (PostgreSQL, Auth, Storage)  
