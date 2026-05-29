@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=850&lines=Meshack+Dawa;Tech+Founder+from+Kenya;Creating+Tools+That+Matter;EDB+Foundation+%7C+Bupue+%7C+Kidy+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=800&lines=console.log(%22Meshack+Dawa%22);Full-Stack+Developer;Tech+Startup+Founder;Creating+Digital+Solutions;And+Digital+tools;Building+The+Future" />
 </h1>
 
 ## 🌐 Socials:
