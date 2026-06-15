@@ -17,20 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=meshtech254&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 
-### Frontend
-- HTML5  
-- CSS3  
-- JavaScript (ES6+)  
-- Responsive Web Design  
-- UI Implementation from Figma/Concept 
-- Typescript
-
-### Backend & Database
-- Supabase (PostgreSQL, Auth, Storage)  
-- REST API Integration  
-- Database Schema Design  
-- Authentication & Role-Based Access Control  
-
 ### AI, ML & Automation
 - Large Language Model (LLM) Integration  
 - Machine Learning Model Implementation  
