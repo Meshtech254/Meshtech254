@@ -61,7 +61,7 @@
 ---
 
 ## 📫 Contact
-- Email: meshackdawa@britacore.com / mesharkdawa@gmail.com  
+- Email: meshack@britacore.com / mesharkdawa@gmail.com  
 - WhatsApp: +254738641078  
 
 ---
